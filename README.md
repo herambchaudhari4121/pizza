@@ -1,5 +1,12 @@
 # Pizza
 
+<p align="center">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedias.spotern.com%2Fspots%2Fw640%2F312%2F312259-1583750388.jpg&imgrefurl=https%3A%2F%2Fwww.spotern.com%2Fen%2Fspot%2Fvideo%2Fi-ate-a-70-000-golden-pizza%2F312259%2Fmr-beast-25-million-edition-black-hoodie-worn-by-mrbeast-in-the-youtube-video-i-ate-a-70-000-golden-pizza&tbnid=B5gBzHLjzbu4DM&vet=12ahUKEwjgobr_48XsAhVaMysKHc5vCrwQMygGegQIARBp..i&docid=kabHN7MjlutyWM&w=640&h=360&q=world%27s%20most%20expensive%20pizza&hl=en&ved=2ahUKEwjgobr_48XsAhVaMysKHc5vCrwQMygGegQIARBp.jpg">
+  <br>
+  <strong>ENJOY THE PIZZA</strong> ❤️🍕🍕💖
+</p>
+
+
 Where is the best pizza in a given city? This is a community project. Pull requests accepted and I will totally make you a
 collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
