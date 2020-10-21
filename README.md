@@ -1,7 +1,14 @@
 # Pizza
 
+<p align="center">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://https://i.insider.com/5e5cfc6ca9f40c0a300aa633?width=900&format=jpeg&auto=webp.jpg">
+  <br>
+  <strong>ENJOY THE PIZZA</strong> 💖💖🍕🍕💖💖
+</p>
+
+
 Where is the best pizza in a given city? This is a community project. Pull requests accepted and I will totally make you a
-collaborator—if you ask and you're not some kind of deep-dish-eating monster.
+collaborator—if you ask and you're not some kind of deep-dish-eating crazy monster.
 
 ### Arizona
 
