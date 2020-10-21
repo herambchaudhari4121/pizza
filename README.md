@@ -302,7 +302,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Motorino](http://www.motorinopizza.com/) - [349 East 12th St](#address)
 * [Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york) - [27 Prince St](#address)
 * [Saluggi's](http://www.saluggis.com/) - [325 Church St](#address)
-
+* [Ray's Pizza](https://rayspizza.com/) - [MIDTOWN WEST831 7th Ave (at 54th)New York, NY 10019(212) 974-9381](#address)
 
 #### Staten Island
 
@@ -617,3 +617,5 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### São Paulo
 
 * [Braz](http://www.brazpizzaria.com.br) - [Rue Graúna 125, Moema](#address)
+
+### NEW YORK
